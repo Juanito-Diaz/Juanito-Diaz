@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hola, soy Juan de Dios Díaz Gómez 👋
+# Hola, soy Juan de Dios Díaz Gómez 
 
 ---
 
 <a href="https://github.com/Juanito-Diaz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=Ingeniero+en+Sistemas+Computacionales;Full+Stack+Developer;Backend+%26+Frontend+Developer;C%C3%B3digo+limpio+y+arquitecturas+escalables" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Ingeniero+en+Sistemas;Full+Stack+Developer;Backend+%26+Frontend+Dev;Arquitectura+y+C%C3%B3digo+Limpio" alt="Typing SVG" />
 </a>
 
 Desarrollador apasionado por crear aplicaciones web robustas, eficientes y escalables.  
